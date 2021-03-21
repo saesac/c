@@ -1,5 +1,5 @@
-# C Language
+# C language
 I will upload C language file
 
-# learning c language 
+# learning C language 
 I am learning C language in school
